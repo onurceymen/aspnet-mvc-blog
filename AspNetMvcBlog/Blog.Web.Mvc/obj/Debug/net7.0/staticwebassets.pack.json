@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blog.Web.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blog.Web.Mvc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\blog-user-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\blog-user-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\cat\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cat\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\cat\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\images\\cat\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\cat\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\images\\cat\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\f1.jpg",
+      "PackagePath": "staticwebassets\\images\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\f2.jpg",
+      "PackagePath": "staticwebassets\\images\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\f3.jpg",
+      "PackagePath": "staticwebassets\\images\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\f4.jpg",
+      "PackagePath": "staticwebassets\\images\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\b6.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\bg-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\bg-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\bg-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\bg-fashion.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\bg-fashion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-lg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-lg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-lg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-lg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-lg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-lg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\img-md-1.jpg",
+      "PackagePath": "staticwebassets\\images\\fashion\\img-md-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\single-img1.png",
+      "PackagePath": "staticwebassets\\images\\fashion\\single-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\fashion\\single-img2.png",
+      "PackagePath": "staticwebassets\\images\\fashion\\single-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\liammason.png",
+      "PackagePath": "staticwebassets\\images\\liammason.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\logo-w.png",
+      "PackagePath": "staticwebassets\\images\\logo-w.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f10.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f11.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f12.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f3.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f4.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f5.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f6.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f7.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f8.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\f9.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\news-6.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\news\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\sidebar-banner3.png",
+      "PackagePath": "staticwebassets\\images\\sidebar-banner3.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\images\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\google-map\\images\\marker.png",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\instafeed-js\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\plugins\\instafeed-js\\instafeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\plugins\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\magnific-popup\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\plugins\\magnific-popup\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\plugins\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\plugins\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\owl-carousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\plugins\\owl-carousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\slick-theme.css",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\slick-carousel\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\themify\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\themify\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\themify\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\themify\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\enesc\\Desktop\\aspnet-mvc-blog-main\\AspNetMvcBlog\\Blog.Web.Mvc\\wwwroot\\plugins\\themify\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify\\fonts\\themify.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Blog.Web.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Blog.Web.Mvc.props",
+      "PackagePath": "build\\Blog.Web.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Blog.Web.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\Blog.Web.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Blog.Web.Mvc.props",
+      "PackagePath": "buildTransitive\\Blog.Web.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
